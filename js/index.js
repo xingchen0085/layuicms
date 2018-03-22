@@ -157,6 +157,7 @@ layui.config({
 			closeBtn : 0,
 			shade : 0.9
 		})
+
 		$(".admin-header-lock-input").focus();
 	}
 	$(".lockcms").on("click",function(){
