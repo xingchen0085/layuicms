@@ -1,0 +1,14 @@
+{
+    "cmsName": "ST后台管理",
+    "version": "v2.0",
+    "author": "星尘",
+    "homePage": "page/index.html",
+    "server": "windows",
+    "dataBase": "8.00.2039",
+    "maxUpload": "2M",
+    "userRights": "管理员",
+    "description": "-",
+    "powerby": "copyright @2017 星尘",
+    "record": "京ICP备14040xxx号-1",
+    "keywords": "layui，马哥，cms，Star dust"
+}
